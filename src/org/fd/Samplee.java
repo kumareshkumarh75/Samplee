@@ -7,5 +7,6 @@ public class Samplee {
 	}
 	private void m2() {
 		System.out.println("sam");
+		System.out.println("danny");
 	}
 }
