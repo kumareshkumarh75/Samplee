@@ -6,4 +6,7 @@ public class Samplee {
 		System.out.println(10);
 		System.out.println("mas");
 	}
+	private void m2() {
+		System.out.println("sam");
+	}
 }
